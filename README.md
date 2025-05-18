@@ -39,7 +39,6 @@
    ```bash
    git clone https://github.com/yourname/filament-smart-bazar.git
    cd filament-smart-bazar
-````
 
 2. **Install dependencies**
 
